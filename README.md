@@ -13,6 +13,10 @@
 
 - 💬 Ask me about **Flutter, OpenCV**
 
+- &#128507; Other bussiness help, setting up webs
+  [https://nutway.com.co/](https://nutway.com.co/)
+  [https://aquifincas.com/](https://aquifincas.com/)
+
 - 📫 How to reach me **sjduranh@gmail.com**
 
 - 📄 Know about my experiences [Electronic Engineer, Code Teacher](Electronic Engineer, Code Teacher)
